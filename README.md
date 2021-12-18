@@ -1,8 +1,7 @@
-### Hi there 👋
 <p align="center">
  <img src="assets/2021-12-18-07-12-56.gif" alt="Gif">
  </p>
-
+### Hi there 👋
 <div align="center" display"flex">
  <a href="https://github.com/Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
