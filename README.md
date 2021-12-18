@@ -6,7 +6,7 @@
  <div align="left">
  
   <h2> Hey There, i'm Doug 👋 <img width="47px" height="47px" src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif Terra"></h2>
- <p> <strong>I'm 20 years old, with experience both in the industrial automation sector and IT sector. As a student of Mechatronics engineering i seek always to get new hands-on experiences and enhance my analytical capabilities.</strong></p>
+ <p> <strong>I'm 20 years old, with experience both in the industrial automation sector 🤖 and IT sector 👨‍💻. As a student of Mechatronics engineering 🔋⚙️ i seek always to get new hands-on experiences 🤲🏼 and enhance my analytical capabilities 🧠.</strong></p>
    </div>
 
 <div align="left">
