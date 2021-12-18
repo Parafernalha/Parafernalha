@@ -8,7 +8,7 @@
 </div>
 
  <div align="left">
-  <h2> Hey There, i'm Doug 👋 <img src="https://cdn.discordapp.com/attachments/886717676850933863/921858831984775188/universo003_up.gif" alt="Gif Terra"> </h2>
+  <h2> Hey There, i'm Doug 👋<br> <img width="99px" height="99px" src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif Terra"> </h2>
    </div>
 
 
