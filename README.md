@@ -37,9 +37,9 @@
  
   </p>
  
-<div align="center">
+<div align="center" height="200em" width="200">
  <a href="https://github.com/Parafernalha">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha&theme=dark">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
   <img src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark">
