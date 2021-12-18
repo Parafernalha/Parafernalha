@@ -30,6 +30,7 @@
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Badge linguagem PHP">
    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Badge linguagem Ruby">
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Badge linguagem Go">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo React">
  </p>
  
  
@@ -37,6 +38,7 @@
 <div align="left">
  <a href="https://github.com/Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
 </div>
  
@@ -57,8 +59,7 @@
  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
   </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
