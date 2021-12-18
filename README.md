@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app?username=Parafernalha&show_icons=true&theme=dark&include_all_commits=true&count=16&theme=dark"/>
+
 
 <!--
 **Parafernalha/Parafernalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
