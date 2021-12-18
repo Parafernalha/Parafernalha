@@ -37,7 +37,9 @@
   </div>
 
 <div align="center">
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha)
+  </div>
+ <div align="center">
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha)
    </div>
 
