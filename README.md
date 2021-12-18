@@ -2,12 +2,12 @@
  <img src="assets/2021-12-18-07-12-56.gif" alt="Gif">
  </p>
 ### Hi there 👋
-<div align="left" display"flex">
+<div align="left">
  <a href="https://github.com/Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
 
  
-  <div align="right" display"flex">
+ align="right">
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
 </div>
  
