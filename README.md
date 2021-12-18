@@ -8,8 +8,9 @@
 </div>
 
  <div align="left">
+    <h2><br></h2>
   <h2> Hey There, i'm Doug 👋 <img width="99px" height="99px" src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif Terra"> </h2>
-  <h2><br></h2>
+
    </div>
 
 
