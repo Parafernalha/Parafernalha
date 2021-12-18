@@ -37,12 +37,12 @@
  
   </p>
  
-<div align="center" height="200em" width="200em">
+<div align="center">
  <a href="https://github.com/Parafernalha">
-  <img height="200em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
-  <img height="200em" width="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha&theme=dark">
- <img  height="200em" width="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
-  <img height="200em" width="200em" src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark">
+  <img height="200px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
+  <img height="200px" width="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha&theme=dark">
+ <img  height="200px" width="200px" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
+  <img height="200px" width="200px" src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark">
  
 </div>
  
