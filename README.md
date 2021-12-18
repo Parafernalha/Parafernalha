@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img align="center"  height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
