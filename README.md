@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div "text-align:center">
+<div align="center" style="display: inline_block">
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
 <img height="180em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
 </div>
