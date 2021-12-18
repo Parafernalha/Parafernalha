@@ -4,9 +4,15 @@
 
 
  <div align="left">
-  <h2>Hey There, i'm Doug<img width="47px" height="47px" src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif Terra"></h2>
+  <h1>Hey There, i'm Doug<img width="47px" height="47px" src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif Terra"></h1>
  <p><strong>I'm 20 years old, with experience both in the industrial automation sector 🤖 and IT sector 👨‍💻. As a student of Mechatronics engineering 🔋⚙️ i seek always to get new hands-on experiences 🤲🏼 and enhance my analytical capabilities 🧠. </strong></p>
    </div>
+   <h2>Studying:</h2>
+   <p>
+   <img href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python">
+   <img href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo HTML5">
+   <img href="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo CSS3">
+ </p>
 
 <div align="left">
  <a href="https://github.com/Parafernalha">
