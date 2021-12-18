@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
- <img href"assets/2021-12-18-07-12-56.gif" alt"Gif">
+ <img src"assets/2021-12-18-07-12-56.gif" alt"Gif">
  </p>
 
 <div align="center" display"flex">
