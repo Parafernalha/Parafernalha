@@ -1,5 +1,5 @@
 <p align="center">
- <img src="assets/ezgif.com-gif-maker.gif" alt="Gif">
+ <img src="assets/ezgif.com-gif-maker (1).gif" alt="Gif">
  </p>
 ### Hi there 👋
 <div align="left">
