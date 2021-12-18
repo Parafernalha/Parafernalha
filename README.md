@@ -8,7 +8,7 @@
 </div>
 
  <div align="left">
-  <h2> Hey There, i'm Doug <img height="150em" width="150em"src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif"> </h2>👋<br>
+  <h2> Hey There, i'm Doug <img src="https://discord.com/channels/886717676850933860/886717676850933863/921858832202862632"> </h2>👋<br>
    </div>
 
 
