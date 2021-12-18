@@ -9,7 +9,7 @@
 
  <div align="left">
  ### Hey There, i'm Doug 👋<br>
- <img src="C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Curso em vídeo - Guanabara - HTML5 e CSS3\Gifs.Imagens.Icones" alt="Gif">
+ <img src="https://www.gifs-animados.net/mundo/universo009.gif" alt="Gif">
  </div>
 
  <h3>Languages and Tools:</h3>
