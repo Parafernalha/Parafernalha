@@ -8,10 +8,10 @@
 </div>
 
  <div align="left">
- ### Hey There, i'm Doug 👋<br>
+  <h2> Hey There, i'm Doug </h2>👋<br>
    </div>
   <div align="rigth">
- <img height="150em "src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif">
+ <img height="150em "src="https://www.gifs-animados.net/mundo/universo006.gif" alt="Gif">
  </div>
 
  <h3>Languages and Tools:</h3>
