@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-<div>
+<div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
 </div>
 <br>
-<div style="display: inline_block"> 
-<img height="180em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=default&theme=merko">
+<div style="display: inline_block" align="center"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=default&theme=merko">
 </div>
 <!--
 **Parafernalha/Parafernalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
