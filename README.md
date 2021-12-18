@@ -37,9 +37,11 @@
  
 <div align="left">
  <a href="https://github.com/Parafernalha">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha">
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
+  <img src"https://activity-graph.herokuapp.com/graph?username=Parafernalha">
+ 
 </div>
  
  
@@ -58,8 +60,6 @@
  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
   </div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
