@@ -36,11 +36,9 @@
  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
   </div>
 
-<div align="center">
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parafernalha)
-  </div>
- <div align="center">
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha)
-   </div>
+
 
 
