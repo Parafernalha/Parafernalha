@@ -40,7 +40,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Parafernalha">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark)](https://github.com/Parafernalha/github-readme-activity-graph">
  
 </div>
  
