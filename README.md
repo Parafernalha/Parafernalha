@@ -9,7 +9,9 @@
 
  <div align="left">
  ### Hey There, i'm Doug 👋<br>
- <img src="https://www.gifs-animados.net/mundo/universo009.gif" alt="Gif">
+   </div>
+  <div align="rigth">
+ <img height="150em "src="https://www.gifs-animados.net/mundo/universo003.gif" alt="Gif">
  </div>
 
  <h3>Languages and Tools:</h3>
