@@ -34,6 +34,14 @@
  </p>
   <h2>Softskills:</h2>
    <p>
+ <ul>
+  <li> Active listening
+   <li> holistic vision
+    <li> resilience
+     <li> creativity
+      <li> team work
+  
+  </ul>
  
   </p>
  
