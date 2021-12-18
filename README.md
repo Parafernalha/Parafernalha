@@ -32,13 +32,15 @@
    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Badge linguagem Go">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo React">
  </p>
+  <h2>Softskills:</h2>
+   <p>
  
- 
+  </p>
  
 <div align="center">
  <a href="https://github.com/Parafernalha">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha&theme=dark)](https://git.io/streak-stats)">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
   <img src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark">
  
