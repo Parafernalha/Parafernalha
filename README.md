@@ -7,7 +7,8 @@
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
 </div>
 
-### Hey There, i'm Doug 👋<p align="center">
+### Hey There, i'm Doug 👋<br>
+ <p>
  <img src="C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Curso em vídeo - Guanabara - HTML5 e CSS3\Gifs.Imagens.Icones" alt="Gif">
  </p>
 
