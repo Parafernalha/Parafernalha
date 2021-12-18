@@ -8,7 +8,7 @@
 </div>
 
  <div align="left">
-  <h2> Hey There, i'm Doug 👋 <img src="https://discord.com/channels/886717676850933860/886717676850933863/921858832202862632" alt="Gif Terra"> </h2>
+  <h2> Hey There, i'm Doug 👋 <img src="https://cdn.discordapp.com/attachments/886717676850933863/921858831984775188/universo003_up.gif" alt="Gif Terra"> </h2>
    </div>
 
 
