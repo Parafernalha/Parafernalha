@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&langs_count=16&theme=merko"/>
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&langs_count=6&theme=merko"/>
 </div>
 
 <!--
