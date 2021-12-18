@@ -8,12 +8,32 @@
  <p><strong>I'm 20 years old, with experience both in the industrial automation sector 🤖 and IT sector 👨‍💻. As a student of Mechatronics engineering 🔋⚙️ i seek always to get new hands-on experiences 🤲🏼 and enhance my analytical capabilities 🧠. </strong></p>
    </div>
    <h2>Studying:</h2>
+   
    <p>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo Python">
    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo HTML5">
    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo CSS3">
    </p>
-
+   <h2>With knowledge in:</h2>
+   <p>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">
+   <img src="" alt="">
+   <img src="" alt="">
+ </p>
+  
+   <h2>Curious about:</h2>
+   <p>
+   <img src="" alt="">
+   <img src="" alt="">
+   <img src="" alt="">
+   <img src="" alt="">
+   <img src="" alt="">
+ </p>
+ 
+ 
+ 
 <div align="left">
  <a href="https://github.com/Parafernalha">
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Parafernalha&show_icons=true&theme=radical&include_all_commits=true">
