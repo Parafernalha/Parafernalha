@@ -1,5 +1,5 @@
 <p align="center">
- <img src="assets/2021-12-18-07-12-56.gif" alt="Gif">
+ <img src="assets/ezgif.com-gif-maker (2).gif" alt="Gif">
  </p>
 ### Hi there 👋
 <div align="left">
