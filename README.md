@@ -75,10 +75,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/357px-Gimp-wilber-scalable.svg.png" alt="Logo Gimp" width="38px" height="38px"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" alt="Logo Rapsberry pi" width="38px" height="38px"/> </a>
+  </details>
   </p>
    
   </div>
-</details>
+
 
 
 <div align="center">
