@@ -60,10 +60,9 @@
   <img src="https://media.discordapp.net/attachments/886717676850933863/922036961764589588/Node-RED1.png" alt="Node red logo" width="38px" height="38px"/> </a> 
  
  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/357px-Gimp-wilber-scalable.svg.png" alt="Logo VS" width="38px" height="38px"/> </a> </p>
-  </div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/357px-Gimp-wilber-scalable.svg.png" alt="Logo VS" width="38px" height="38px"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
- <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" alt="Logo VS" width="38px" height="38px"/> </a> </p>
+ <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" alt="Logo VS" width="38px" height="38px"/> </a></p>
   </div>
 
 
