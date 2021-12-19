@@ -34,7 +34,7 @@
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt"NodeJS logo">
  </p>
   <h2>Softskills:</h2>
-   <p>
+   <p align="rigth">
  <ul>
   <li><strong> active listening </strong>
    <li><strong> holistic vision</strong>
@@ -46,6 +46,7 @@
   </p>
  
 <div align="center">
+ <h2> Github stats </h2>
  <a href="https://github.com/Parafernalha">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parafernalha&layout=compact&theme=merko">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Parafernalha&theme=dark">
