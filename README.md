@@ -54,8 +54,8 @@
   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Parafernalha&theme=react-dark">
 </div>
 
-<div>
-<h2 align="rigth"><details>
+<div align="center">
+<h2><details>
 <summary>Languages and tools that i often use in the day-to-day life</summary>
  </details>
  </h2> 
