@@ -68,9 +68,9 @@
 
 
 
-
- <h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center">
+ <h3>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/douglas07215723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="douglas07215723" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/douglas-de-oliveira-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/douglas-de-oliveira-fernandes" height="30" width="40" /></a>
 <a href="https://www.facebook.com/douglas.oliveirafernandes.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/douglas.oliveirafernandes.5" height="30" width="40" /></a>
@@ -83,5 +83,5 @@
 <a href="https://stackoverflow.com/users//users/17681926/douglas-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/17681926/douglas-oliveira" height="30" width="40" /></a>
  <a href="https://medium.com//@douglas.oliveiras2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="/@douglas.oliveiras2210" height="30" width="40" /></a>
  <a href="mailto:contact.devparafernalha@gmail.com" target="_blank" rel="noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo Gmail" width="25px" height="25px"/> </a> </p>
- 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo Gmail" width="35px" height="35px"/> </a> </p>
+ </div>
