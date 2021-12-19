@@ -55,8 +55,8 @@
 </div>
 
 <div align="center">
-<h2><details>
-<summary>Languages and tools that i often use in the day-to-day life
+<details>
+<summary> Languages and tools that i often use in the day-to-day life </summary>
 
 
 
@@ -69,9 +69,7 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" alt="Logo Rapsberry pi" width="38px" height="38px"/> </a>
  </p>
- </summary>
   </details>
- </h2> 
  </div>
 
 
