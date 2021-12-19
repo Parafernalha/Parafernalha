@@ -85,3 +85,5 @@
  <a href="mailto:contact.devparafernalha@gmail.com" target="_blank" rel="noreferrer">
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Logo Gmail" width="40px" height="30px"/> </a> </p>
  </div>
+ 
+![Snake animation](https://github.com/Parafernalha/Parafernalha/blob/output/github-contribution-grid-snake.svg)
