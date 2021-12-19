@@ -59,7 +59,7 @@
  <a href="https://nodered.org/" target="_blank" rel"noreferrer">
   <img src="https://media.discordapp.net/attachments/886717676850933863/922036961764589588/Node-RED1.png" alt="Node red logo" width="38px" height="38px"/> </a> 
  <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer">
- <img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Icon_2019.svg" alt="Logo Visual Studio" width="38px" height="38px /> </a></p>
+ <img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Icon_2019.svg" alt="Logo Visual Studio" width="38px" height="38px" /> </a> </p>
   </div>
 
 
