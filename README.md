@@ -85,3 +85,21 @@
  </div>
  
 ![Snake animation](https://github.com/Parafernalha/Parafernalha/blob/output/github-contribution-grid-snake.svg)
+ 
+ <!--
+Thanks to [kterra92](https://github.com/kterra92/kterra92)
+For all the explanations on how to create a READ.ME file
+
+Thanks also to [rafaballerini](https://github.com/rafaballerini/rafaballerini)
+for all the tips in the creation of this READ.ME file
+-->
+ <!--
+How to make the bio gif ?
+
+Thanks to [mayto91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen.
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save in the paste assets in this repo.
+-->
