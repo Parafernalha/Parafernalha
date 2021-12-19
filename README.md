@@ -59,8 +59,8 @@
  <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img src="https://media.discordapp.net/attachments/886717676850933863/922036961764589588/Node-RED1.png" alt="Node red logo" width="38px" height="38px"/> </a> 
  
- <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank" rel="noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png" alt="Logo VS" width="38px" height="38px"/> </a> </p>
+ <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/357px-Gimp-wilber-scalable.svg.png" alt="Logo VS" width="38px" height="38px"/> </a> </p>
   </div>
 
 
