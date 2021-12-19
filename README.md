@@ -56,7 +56,7 @@
 
 <div>
 <h2 align="rigth"><details>
-<summary><Languages and tools that i often use in the day-to-day life</summary>
+<summary>Languages and tools that i often use in the day-to-day life</summary>
  </details>
  </h2> 
  </div>
