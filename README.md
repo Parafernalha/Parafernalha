@@ -63,9 +63,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gimp-wilber-scalable.svg/357px-Gimp-wilber-scalable.svg.png" alt="Logo Gimp" width="38px" height="38px"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
  <img src="https://seeklogo.com/images/R/raspberry-pi-logo-8240ABBDFE-seeklogo.com.png" alt="Logo Rapsberry pi" width="38px" height="38px"/> </a>
-  </div>
- <a href="https://mail.google.com/mailto:contact.devparafernalha@gmail.com" target="_blank" rel="noreferrer">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" alt="Logo Gmail" width="38px" height="38px"  <abbr>contact.devparafernalha@gmail.com</abbr>/> </a></p>
+  </p>
   </div>
 
 
@@ -84,4 +82,6 @@
  <a href="https://dev.to/parafernalha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="parafernalha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users//users/17681926/douglas-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/17681926/douglas-oliveira" height="30" width="40" /></a>
  <a href="https://medium.com//@douglas.oliveiras2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="/@douglas.oliveiras2210" height="30" width="40" /></a>
+ <a href="mailto:contact.devparafernalha@gmail.com" target="_blank" rel="noreferrer">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" alt="Logo Gmail" width="38px" height="38px"  <abbr>contact.devparafernalha@gmail.com</abbr>/> </a> </p>
  
